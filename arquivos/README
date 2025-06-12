@@ -1,4 +1,3 @@
-# Subscrybe-flow-organizer---LPC
 # Subscrybe Flow Organizer
 
 Sistema simples e intuitivo para gerenciamento de assinaturas e planos.
@@ -9,9 +8,15 @@ O Subscrybe Flow Organizer é uma aplicação web que ajuda usuários a organiza
 
 ## 🚀 Tecnologias utilizadas
 
+- React
+- Vite
 - Tailwind CSS
+- TypeScript
+- shadcn/ui
 
 ## 💻 Como executar o projeto
+
+> Certifique-se de ter o Node.js e o npm instalados na sua máquina.
 
 ```bash
 # Clone o repositório
